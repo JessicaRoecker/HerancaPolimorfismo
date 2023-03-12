@@ -1,4 +1,4 @@
-# HerancaPolimorfismo
+# Herança e Polimorfismo
 <h1>Aula de programação orienta a objeto (P.O.O) </h1>
 
 > Dia da aula 10/03/2023 <br>
